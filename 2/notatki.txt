@@ -1,0 +1,6 @@
+wpisujesz do bazy danych rekord, klikasz przycisk i automatycznie robi sie podstrona
+jeśli w nazwie produktu są znaki którymi nie można nazwać  pliku zostaną zamienione na f
+podstrona znajduje wszystkie obrazy w plikach które mają w sobie nazwe produktu(z bazy danych nie z nazwy podstrony) i ustawia je w rządku
+wszystkie obrazy powinny mieć tę samą proporcje żeby sie nie rozjechało
+na tą chwile wszystkie główne obrazy produktu muszą być png, moge potem zmienić
+

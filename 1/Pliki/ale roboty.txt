@@ -1,0 +1,23 @@
+stopka:
+pomoc
+	
+	reklamacje
+	regulamin
+moje konto
+	twój koszyk
+	rejestracja
+	logowanie
+płatności
+	metody płatności
+	czas i koszty dostawy
+	czas realizacji zamówienia
+	śledzenie przesyłki
+	zwrot LUB WYMIANA
+	Reklamacje
+informacje
+	poiltyka prywatności
+	polityka cookies
+o nas
+	kontakt i dane firmy
+	o firmie
+	regulamin sklepu
